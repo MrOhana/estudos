@@ -29,12 +29,6 @@ az webapp deployment source config-zip --resource-group az-204-dio --src web.zip
 
 ### Auxiliar
 
-staaz204diomrohana
-
-YaTnO9892ZJ8xzP+CFE7GkXyw//4EJ+vJwg+nPzhxrr2ZzXNl7trrlY5sHQYvZFr9B5vwBYqasFm+ASt3Qm6Kg==
-
-DefaultEndpointsProtocol=https;AccountName=staaz204diomrohana;AccountKey=YaTnO9892ZJ8xzP+CFE7GkXyw//4EJ+vJwg+nPzhxrr2ZzXNl7trrlY5sHQYvZFr9B5vwBYqasFm+ASt3Qm6Kg==;EndpointSuffix=core.windows.net
-
 
 
 
